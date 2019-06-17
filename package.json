@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Akihiro0710/heroku-static-server/issues"
   },
-  "homepage": "https://github.com/Akihiro0710/heroku-static-server#readme"
+  "homepage": "https://github.com/Akihiro0710/heroku-static-server#readme",
+  "dependencies": {
+    "basic-auth-connect": "^1.0.0",
+    "express": "^4.17.1"
+  }
 }
